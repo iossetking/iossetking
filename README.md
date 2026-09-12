@@ -1,16 +1,24 @@
-## Hi there 👋
+# Iosset San
 
-<!--
-**iossetking/iossetking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring data-science consultant focused on helping founders and CEOs of English-speaking small and medium-sized companies make better sales and profitability decisions from their data.
 
-Here are some ideas to get you started:
+## Current direction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building skills in Python, SQL, data analysis, finance, and consultative sales.
+
+My initial focus is helping companies:
+
+- improve sales-pipeline performance;
+- identify profitable products, customer segments, and channels; and
+- turn CRM, invoice, and marketing data into decisions.
+
+## Case studies
+
+Case studies will be added as I complete real, evidence-based projects.
+
+- Coming soon: Pipeline and Profitability Diagnostic
+- Coming soon: Data Foundations project
+
+## Contact
+
+GitHub is currently the best place to follow my work.
